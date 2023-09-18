@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj": {}
+    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj": {
+    "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj",
+        "projectUniqueName": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj",
+        "projectPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\ToDoApi.csproj",
         "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\obj\\",
+        "outputPath": "C:\\Users\\George\\Documents\\Coding\\personal-learning\\c-sharp\\microsoft-asp-dotnet-core-beginner\\asp-dotnet-webapi-learning\\ToDoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config"
